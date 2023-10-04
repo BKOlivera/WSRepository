@@ -16,5 +16,6 @@ namespace WebApplication1.Models
 		Public string Gender { get; set;}
 		Public string Location { get; set;}
 
+		Public string NativeID { get; set;}
 	}
 }
