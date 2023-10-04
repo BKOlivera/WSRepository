@@ -20,6 +20,8 @@ namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             textBox1.Text = "olivera";
+            MessageBox.Show("prvi put");
+            textBox1.Clear();
         }
     }
 }
