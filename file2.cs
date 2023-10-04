@@ -13,5 +13,8 @@ namespace WebApplication1.Models
 		public	Nullable<int> PostWeight { get; set; }
 		[Display(Name = "Post Name"]
 		Public string PostName { get; set;}
+		Public string Gender { get; set;}
+		Public string Location { get; set;}
+
 	}
 }
