@@ -17,5 +17,7 @@ namespace WebApplication1.Models
 		Public string Location { get; set;}
 
 		Public string NativeID { get; set;}
+
+		Public string OliveraID { get; set;}
 	}
 }
